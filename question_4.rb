@@ -8,7 +8,7 @@ instructions = [
         required: true
     },
     {
-        content: "have fun"
+        content: "have fun",
         required: false
     }
 ]

@@ -7,7 +7,7 @@
 * Work through each of the question in `question_2.rb`
     * Use `ruby question_2.rb` to run any
 
-* Work through each of the question in `question_3_.rb`
+* Work through each of the question in `question_3.rb`
     * Use `ruby question_3_.rb` to run any
 
 * Work through each of the question in `question_4.rb`
