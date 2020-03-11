@@ -10,7 +10,7 @@ end
 p major_expenses
 
 # What will the above code output?
-#a new array with values that
+#a new array with values that takes expenses greater than 100
 
 # What *does* the above code output? (run it)
 # [150, 300]
